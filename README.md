@@ -1,5 +1,7 @@
 # Aula-10-
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Eder-R_Aula-10-)](https://sonarcloud.io/summary/new_code?id=Eder-R_Aula-10-)
+
 ## Tutorial no link abaixo
 
 [Tutorial](https://youtu.be/2kBwN1rJ6Uk)
